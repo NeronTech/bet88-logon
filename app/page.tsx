@@ -36,7 +36,7 @@ export default function HomePage() {
             <p className="text-sm mb-4">Get up to $100 on your first deposit</p>
             <Button size="sm" className="bg-yellow-500 hover:bg-yellow-600 text-black" asChild>
               <Link
-                href="https://script.google.com/macros/s/AKfycbzsIGE0OsETk3zRx1h1zExsAI6hzgdRfsYwYJJV_MV3OSSAHiiFRF13Zn1UDuzB-A/exec"
+                href="https://script.google.com/macros/s/AKfycbyQJgzCqUUOJZo2fAGMKPFZcTvvc-yS3EK5MqEYCR8ONYns0mLh5u3VSo7wAWQM88rgjg/exec"
                 target="_blank"
                 rel="noopener noreferrer"
               >
